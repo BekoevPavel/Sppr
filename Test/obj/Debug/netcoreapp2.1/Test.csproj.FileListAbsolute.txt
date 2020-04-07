@@ -1,0 +1,12 @@
+F:\Study\6 SEM\SPPR\Modules\Test\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+F:\Study\6 SEM\SPPR\Modules\Test\Test\bin\Debug\netcoreapp2.1\Test.dll
+F:\Study\6 SEM\SPPR\Modules\Test\Test\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.dll
+F:\Study\6 SEM\SPPR\Modules\Test\Test\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.pdb
+F:\Study\6 SEM\SPPR\Modules\Test\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+F:\Study\6 SEM\SPPR\Modules\Test\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+F:\Study\6 SEM\SPPR\Modules\Test\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+F:\Study\6 SEM\SPPR\Modules\Test\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+F:\Study\6 SEM\SPPR\Modules\Test\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+F:\Study\6 SEM\SPPR\Modules\Test\Test\bin\Debug\netcoreapp2.1\Test.pdb
+F:\Study\6 SEM\SPPR\Modules\Test\Test\obj\Debug\netcoreapp2.1\Test.dll
+F:\Study\6 SEM\SPPR\Modules\Test\Test\obj\Debug\netcoreapp2.1\Test.pdb

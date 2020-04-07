@@ -1,0 +1,11 @@
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\bin\Debug\netcoreapp2.1\Test1.deps.json
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\bin\Debug\netcoreapp2.1\Test1.dll
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\bin\Debug\netcoreapp2.1\Test1.pdb
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.dll
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.pdb
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\obj\Debug\netcoreapp2.1\Test1.AssemblyInfoInputs.cache
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\obj\Debug\netcoreapp2.1\Test1.AssemblyInfo.cs
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\obj\Debug\netcoreapp2.1\Test1.csproj.CopyComplete
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\obj\Debug\netcoreapp2.1\Test1.dll
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\obj\Debug\netcoreapp2.1\Test1.pdb
+C:\Users\pabla\Desktop\UNY\SPPR\laba3\Test1\Test\Test\obj\Debug\netcoreapp2.1\Test1.csprojAssemblyReference.cache
